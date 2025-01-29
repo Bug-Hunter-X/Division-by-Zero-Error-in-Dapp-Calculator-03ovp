@@ -1,0 +1,1 @@
+This repository demonstrates a common error in decentralized applications (Dapps): unhandled division by zero. The `calculatorBug.js` file contains a function that does not handle this scenario, leading to application crashes. The solution, in `calculatorSolution.js`, shows how to handle this gracefully using error handling.
